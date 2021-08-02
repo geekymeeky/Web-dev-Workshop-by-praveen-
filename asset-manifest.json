@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Web-dev-Workshop-by-praveen-/static/css/main.fc9500e6.chunk.css",
+    "main.js": "/Web-dev-Workshop-by-praveen-/static/js/main.231fcee1.chunk.js",
+    "main.js.map": "/Web-dev-Workshop-by-praveen-/static/js/main.231fcee1.chunk.js.map",
+    "runtime-main.js": "/Web-dev-Workshop-by-praveen-/static/js/runtime-main.dfba3737.js",
+    "runtime-main.js.map": "/Web-dev-Workshop-by-praveen-/static/js/runtime-main.dfba3737.js.map",
+    "static/js/2.80be13ee.chunk.js": "/Web-dev-Workshop-by-praveen-/static/js/2.80be13ee.chunk.js",
+    "static/js/2.80be13ee.chunk.js.map": "/Web-dev-Workshop-by-praveen-/static/js/2.80be13ee.chunk.js.map",
+    "index.html": "/Web-dev-Workshop-by-praveen-/index.html",
+    "static/css/main.fc9500e6.chunk.css.map": "/Web-dev-Workshop-by-praveen-/static/css/main.fc9500e6.chunk.css.map",
+    "static/js/2.80be13ee.chunk.js.LICENSE.txt": "/Web-dev-Workshop-by-praveen-/static/js/2.80be13ee.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dfba3737.js",
+    "static/js/2.80be13ee.chunk.js",
+    "static/css/main.fc9500e6.chunk.css",
+    "static/js/main.231fcee1.chunk.js"
+  ]
+}
